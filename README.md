@@ -1,5 +1,5 @@
 # 💫 About Me:
-a passionate software developer specializing in front-end development
+Hi 👋! My name is Uday Maroju and I'm a passionate software developer specializing in front-end development
 
 
 ## 🌐 Socials:
